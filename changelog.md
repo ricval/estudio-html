@@ -5,3 +5,8 @@
   - Añadido recurso 01
   - Añadido recurso 02
   - Comienzo de lectura del recurso 01
+
+## 2026-02-03
+  - Encontré un sitio web que muestra una ruta de estudio para desarrolladores. El sitio es: [roadmap.sh](https://roadmap.sh)
+  - Encontré material gratuito de estudio de desarrollo, el sitio es: [freeCodeCamp](https://www.freecodecamp.org/espanol/learn)
+  

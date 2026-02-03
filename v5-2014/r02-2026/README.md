@@ -1,4 +1,4 @@
-# Revisión 02 (2026)
+# Recurso 02 (2026)
 
 Apuntes y prácticas de mi estudio del lenguaje HTML5, utilizando como guía el libro: **Responsive Web Design with HTML5 and CSS** (4nd Edition).
 
@@ -13,7 +13,7 @@ Apuntes y prácticas de mi estudio del lenguaje HTML5, utilizando como guía el 
 ![portada del libro](imgs/portada_libro_html5.jpg)
 
 - **Título**: Responsive Web Design with HTML5 and CSS
-- **Edición**: 4nd Edition
+- **Edición**: 4th
 - **Autor**: Ben Frain
 - **Idioma**: Inglés
 - **Año publicación**: 2022
