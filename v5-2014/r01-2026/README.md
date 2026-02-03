@@ -1,4 +1,4 @@
-# Revisión 01 (2026)
+# Recurso 01 (2026)
 
 Apuntes y prácticas de mi estudio del lenguaje HTML5, utilizando como guía el libro: **HTML5 the missing manual** (2nd Edition).
 
