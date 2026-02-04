@@ -11,6 +11,7 @@ _HyperText Markup Language_, versión5 es la quinta revisión importante del len
 
 ## Recursos de estudio
 
-- [Recurso 01 - Libro 📕 (2026)](r01-2026/README.md)
-- [Recurso 02 - Libro 📕 (2026)](r02-2026/README.md)
-- [Recurso 03 - Curso 🧑🏼‍🏫 (2026)](r03-2026/README.md)
+- 2026
+  - [Recurso 01 - Libro 📕: HTML5: The Missing Manual](r01-2026/README.md)
+  - [Recurso 02 - Libro 📕: Responsive Web Design with HTML5 and CSS](r02-2026/README.md)
+  - [Recurso 03 - Curso 🧑🏼‍🏫: freeCodeCamp](r03-2026/README.md)

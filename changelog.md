@@ -9,4 +9,8 @@
 ## 2026-02-03
   - Encontré un sitio web que muestra una ruta de estudio para desarrolladores. El sitio es: [roadmap.sh](https://roadmap.sh)
   - Encontré material gratuito de estudio de desarrollo, el sitio es: [freeCodeCamp](https://www.freecodecamp.org/espanol/learn)
+
+## 2026-02-04
+  - Toma de notas del curso de freeCodeCamp
+  
   
