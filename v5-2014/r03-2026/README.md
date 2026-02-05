@@ -6,7 +6,7 @@ Curso gratuito en el sitio web: [freeCodeCamp](https://www.freecodecamp.org/espa
 
 - **Fecha de inicio**: 2026-02-03
 - **Fecha de término**: continuo estudiando
-- **Porcentaje de avance**: 20%
+- **Porcentaje de avance**: 28%
 
 ## 🧑🏼‍🏫 Información del Curso
 
@@ -26,17 +26,16 @@ Curso gratuito en el sitio web: [freeCodeCamp](https://www.freecodecamp.org/espa
 ## Índice de temas
 
 - HTML Básico
-  - Construir un Esquema Curricular
-  - Depurar la página de perfil de _Camperbot_
-  - Entendiendo los Atributos HTML
+  - 01 - Construir un Esquema Curricular `[Taller 🔨]`
+  - 02 - Depurar la página de perfil de _Camperbot_ `[Laboratorio 🧪]`
+  - 03 - Entendiendo los Atributos HTML
     - ¿Qué papel desempeña el HTML en la red?
     - ¿Qué son los atributos y cómo funcionan?
-  - Depurar una página de Adopción de Mascotas
+  - 04 - Depurar una página de Adopción de Mascotas `[Laboratorio 🧪]`
   - [05 - Entendiendo el Código Básico de HTML](05-Entendiento_el_codigo_basico_html.md)
-  - 06 - Crear una aplicación de fotos de gatos  `[Taller 🔨]`
-    - 42 lecciones
+  - 06 - Crear una aplicación de fotos de gatos `[Taller 🔨]`
   - 07 - Construir una página de recetas `[Laboratorio 🧪]`
-  - [08 - Fundamentos de HTML]()
+  - [08 - Fundamentos de HTML](08-Fundamentos_HTML.md)
   - 09 - Construir una Página de Librería `[Taller 🔨]`
   - [10 - Entender cómo HTML afecta a SEO]()
   - 11 - Crear una página de Agencia de Viajes `[Laboratorio 🧪]`
