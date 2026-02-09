@@ -12,4 +12,8 @@
 
 ## 2026-02-04
   - Toma de notas del curso de freeCodeCamp, avance hasta el 20%
-  
+
+## 2026-02-09
+  - Mejora en estructura en directorios
+  - Fusionar estudios de HTML con CSS
+  - Recurso 01 abandonado

@@ -1,16 +1,16 @@
-# Recurso 02 (2026)
+# Recurso 02 (2022)
 
 Apuntes y prácticas de mi estudio del lenguaje HTML5, utilizando como guía el libro: **Responsive Web Design with HTML5 and CSS** (4nd Edition).
 
 ## ⏲ Información sobre el tiempo dedicado
 
-- **Fecha de inicio**: 2026-02-01
-- **Fecha de término**: continuo estudiando
+- **Fecha de inicio**: 2026-02-..
+- **Fecha de término**: Sin comenzar
 - **Porcentaje de avance**: 00%
 
 ## 📕 Información del libro
 
-![portada del libro](imgs/portada_libro_html5.jpg)
+![portada del libro](portada.jpg)
 
 - **Título**: Responsive Web Design with HTML5 and CSS
 - **Edición**: 4th

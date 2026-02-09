@@ -1,16 +1,18 @@
-# Recurso 01 (2026)
+# Recurso 01 (2013)
 
 Apuntes y prácticas de mi estudio del lenguaje HTML5, utilizando como guía el libro: **HTML5 the missing manual** (2nd Edition).
 
 ## ⏲ Información sobre el tiempo dedicado
 
 - **Fecha de inicio**: 2026-02-01
-- **Fecha de término**: continuo estudiando
-- **Porcentaje de avance**: 00%
+- **Fecha de término**: Abandonado 🗑️
+- **Razón**: Encontré un libro más actualizado, parece que éste apenas comenzaba a tratar HTML5 como novedad, de hecho ya hay una tercera edición de éste mismo libro.
+- **Porcentaje de avance**: 05%
+- **Calificación**: [⭐_ _ _ _ ]
 
 ## 📕 Información del libro
 
-![portada del libro](imgs/Html5_libro_the_missing_manual_2nd_Ed.png)
+![portada del libro](portada.png)
 
 - **Título**: HTML5: The Missing Manual
 - **Edición**: 2nd Edition
