@@ -6,7 +6,7 @@ Curso gratuito en el sitio web: [freeCodeCamp](https://www.freecodecamp.org/espa
 
 - **Fecha de inicio**: 2026-02-03
 - **Fecha de término**: continuo estudiando
-- **Porcentaje de avance**: 29%
+- **Porcentaje de avance**: 37%
 
 ## 🧑🏼‍🏫 Información del Curso
 
@@ -39,10 +39,10 @@ Curso gratuito en el sitio web: [freeCodeCamp](https://www.freecodecamp.org/espa
   - 09 - Construir una Página de Librería `[Taller 🔨]`
   - [10 - Entender cómo HTML afecta a SEO](10-Entender_como_HTML_afecta_SEO.md)
   - 11 - Crear una página de Agencia de Viajes `[Laboratorio 🧪]`
-  - [12 - Trabajar con elementos de Audio y Video]()
+  - [12 - Trabajar con elementos de Audio y Video](12-Trabajar_con_elementos_audio_video.md)
   - 13 - Construye un reproductor de Video HTML `[Taller 🔨]`
   - 14 - Construir un reproductor de Audio y Video HTML `[Laboratorio 🧪]`
-  - [15 - Trabajando con imágenes y SVGs]()
+  - [15 - Trabajando con imágenes y SVGs](15-Trabajando_con_imagenes_svg.md)
   - 16 - Construir un ícono de corazón `[Taller 🔨]`
   - [17 - Trabajando con el elemento `<code>iframe</code>`]()
   - 18 - Construir una pantalla de video usando iframe `[Taller 🔨]`
