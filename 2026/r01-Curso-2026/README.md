@@ -6,13 +6,13 @@ Curso gratuito en el sitio web: [freeCodeCamp](https://www.freecodecamp.org/espa
 
 - **Fecha de inicio**: 2026-02-03
 - **Fecha de término**: continuo estudiando
-- **Porcentaje de avance**: 53%
-- **Traker**:
+- **Porcentaje de avance**: 62%
+- **Tracker**:
 ```
-Febrero 2026
+2026 Febrero
 Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa
 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
-__ >< >< >< >< >< __ __ >< >< >< >< >< __ __ >< ><
+__ >< >< >< >< >< __ __ >< >< >< >< >< __ __ >< >< __ >< 
 ```
 
 ## 🧑🏼‍🏫 Información del Curso
@@ -63,7 +63,7 @@ __ >< >< >< >< >< __ __ >< >< >< >< >< __ __ >< ><
   - 25 - Construir una Lista de Navegadores Web Principales `[Taller 🔨]`
   - [26 - Trabajando con Elementos Semánticos de Texto y Tiempo](26-Trabajando_con_elementos_semanticos_texto_y_tiempo.md)
   - 27 - Crea la página de consejos de empleo de Quincy `[Taller 🔨]`
-  - [28 - Trabajando con Elementos Semánticos Especializados]()
+  - [28 - Trabajando con Elementos Semánticos Especializados](28-Trabajando_con_elementos_semanticos_especializados.md)
   - 29 - Construir una Página de Blog de Gatos `[Taller 🔨]`
   - 30 - Construir un Centro de Eventos `[Laboratorio 🧪]`
   - 31 - Revisión de HTML Semántico `[Revisión ☑️]`
