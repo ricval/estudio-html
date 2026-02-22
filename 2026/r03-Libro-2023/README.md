@@ -6,14 +6,14 @@ Apuntes y prácticas de mi estudio del lenguaje HTML5 y CSS3, utilizando como gu
 
 - **Fecha de inicio**: 2026-02-21
 - **Fecha de término**: Estudiando
-- **Porcentaje de avance**: 05% - p.18
+- **Porcentaje de avance**: 14% - p.49 de 336 - `[#__________]`
 - **Tracker**:
 
 ```markdown
 # 2026 Febrero
 **Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa**
  _01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28_
-                                                              ><
+                                                              >< ><
 ```
 
 ## 📕 Información del libro
@@ -47,7 +47,7 @@ Apuntes y prácticas de mi estudio del lenguaje HTML5 y CSS3, utilizando como gu
   - 02.02: Formateando texto y multimedia
   - 02.03: Hipervínculos y navegación
 
-- Capítulo 03: CSS esencial
+- [Capítulo 03: CSS esencial](03-CSS_esencial.md)
   - 03.01: Introducción a Hojas de Estilo en Cascada (CSS)
   - 03.02: Dando estilo a texto y fuentes
   - 03.03: Modelo de caja y _Layout_
