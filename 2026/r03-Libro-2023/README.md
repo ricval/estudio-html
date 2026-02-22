@@ -4,15 +4,16 @@ Apuntes y prácticas de mi estudio del lenguaje HTML5 y CSS3, utilizando como gu
 
 ## ⏲ Información sobre el tiempo dedicado
 
-- **Fecha de inicio**: 2026-02-..
-- **Fecha de término**: Sin comenzar
-- **Porcentaje de avance**: 00%
+- **Fecha de inicio**: 2026-02-21
+- **Fecha de término**: Estudiando
+- **Porcentaje de avance**: 05% - p.18
 - **Tracker**:
-```
-2026 Mes
-Lu Ma Mi
-00 00 00
-__ __ __
+
+```markdown
+# 2026 Febrero
+**Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa Do Lu Ma Mi Ju Vi Sa**
+ _01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28_
+                                                              ><
 ```
 
 ## 📕 Información del libro
@@ -37,11 +38,11 @@ __ __ __
 
 ## Índice del libro
 
-- Capítulo 01: Introducción al Desarrollo Web
+- [Capítulo 01: Introducción al Desarrollo Web](01-Introduccion.md)
   - 01.01: Entendiendo lo básico
   - 01.02: Configurando tu entorno desarrollo
 
-- Capítulo 02: HTML fundamental
+- [Capítulo 02: HTML fundamental](02-Fundamentos_HTML.md)
   - 02.01: Estructura de un documento HTML
   - 02.02: Formateando texto y multimedia
   - 02.03: Hipervínculos y navegación
@@ -61,8 +62,8 @@ __ __ __
   - 05.02: _Grid_ y _Layouts_ flexibles
   - 05.03: Enfoque de diseño móvil-primero
 
-- Capítulo 06: Preprocesadores CSS y Herramientas de construcción
-  - 06.01: Introducción a los preprocesadores CSS
+- Capítulo 06: Pre-procesadores CSS y Herramientas de construcción
+  - 06.01: Introducción a los pre-procesadores CSS
   - 06.02: Herramientas de construcción y flujo de trabajo
 
 - Capítulo 07: Técnicas avanzadas de CSS
