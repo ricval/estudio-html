@@ -47,3 +47,6 @@ El IBM Equal Accessibility Checker es otra herramienta robusta para mejorar la a
 
 ## ¿Cómo afecta la estructura adecuada de niveles de encabezado a la accesibilidad?
 
+No te saltes de `h1` a `h3`, ni de `h2` a `h4`, y así sucesivamente.
+
+Cada página debe tener un solo elemento `h1` que represente el tema o título principal.
